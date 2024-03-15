@@ -1,0 +1,14 @@
+
+       .main-card {
+         background-color: red;
+         padding :1rem 1rem;
+
+
+}
+       .main-card:hover {
+        background: blue;
+        
+       }
+        .block:hover {
+            background: blue;
+        }
